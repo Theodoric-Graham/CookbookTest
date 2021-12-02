@@ -1,2 +1,2 @@
 # CookbookTest
-Small Cookbook project
+Small Cookbook project for testing git
